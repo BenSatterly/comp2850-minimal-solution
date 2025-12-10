@@ -272,3 +272,6 @@ select:focus {
     display: none;
   }
 }
+:root {
+  --pico-primiary: #d32f2f
+}
