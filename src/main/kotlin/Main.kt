@@ -217,14 +217,14 @@ private const val ERROR_404_HTML =
                 margin: 0.5rem 0;
             }
             a {
-                color: #4A90E2;
+                color: #9e0000ff;
                 text-decoration: none;
             }
             a:hover {
                 text-decoration: underline;
             }
             a:focus {
-                outline: 3px solid #4A90E2;
+                outline: 3px solid #9e0000ff;
                 outline-offset: 2px;
             }
         </style>
