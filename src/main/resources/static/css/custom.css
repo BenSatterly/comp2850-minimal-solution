@@ -219,6 +219,12 @@ select:focus {
   color: #ffffff;
 }
 
+.task-actions button:hover,
+.task-actions button:focus-visible {
+  background-color: #b71c1c;
+  border-color: #7f0000;
+}
+
 /* ========================================
    Responsive Design
    ======================================== */
