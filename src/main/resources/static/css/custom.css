@@ -273,3 +273,7 @@ select:focus {
     display: none;
   }
 }
+
+button {
+  border: 5px solid magenta !important;
+}
